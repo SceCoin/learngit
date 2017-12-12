@@ -13,3 +13,4 @@ if birthday in string:
     print(string.find(birthday))
 else:
     print("your birthday does not appear in the first million digits of pi.")
+    prnit("test github.")
